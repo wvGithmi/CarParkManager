@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62f0920a-2614-424a-9ef5-73c75c2aad13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarParkManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/CarParkManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/META-INF/CarParkManager.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/MotorBike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/ParkingSlots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/Van.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CarParkManager/WestministerCarParkManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarParkManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MotorBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingSlots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Van.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WestministerCarParkManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vn53ryNEBRM5SXwDCiwrIlVFLi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OOP-Assignment01" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WestministerCarParkManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WestministerCarParkManager" />
+      <module name="CarParkManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WestministerCarParkManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62f0920a-2614-424a-9ef5-73c75c2aad13" name="Default Changelist" comment="" />
+      <created>1577875822856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577875822856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="76" width="814" height="729" key="#Intentions" timestamp="1578420928375">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="722" y="76" width="814" height="729" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1578420928375" />
+    <state x="361" y="62" width="744" height="694" key="#Project_Structure" timestamp="1577875848296">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="62" width="744" height="694" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1577875848296" />
+    <state x="880" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578424222945">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="880" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1578424222945" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1578420237720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578420237720" />
+    <state width="725" height="211" key="GridCell.Tab.0.bottom" timestamp="1578427399821">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578427399821" />
+    <state width="725" height="211" key="GridCell.Tab.0.center" timestamp="1578427399821">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578427399821" />
+    <state width="725" height="211" key="GridCell.Tab.0.left" timestamp="1578427399820">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578427399820" />
+    <state width="725" height="211" key="GridCell.Tab.0.right" timestamp="1578427399821">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578427399821" />
+    <state x="470" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1578420226878">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="470" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578420226878" />
+    <state x="209" y="38" key="new project wizard" timestamp="1578417636958">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1578417636958" />
+  </component>
+</project>
